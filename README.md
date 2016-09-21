@@ -9,4 +9,6 @@ SpaceBar - run<br>
 EnterKey - reset<br>
 ===================================================<br>
 
-![alt tag](https://github.com/MinBang/AStar/blob/master/image/astar.png)
+<p align=center>
+<img src="https://github.com/MinBang/AStar/blob/master/image/astar.png" width=600 height-500>
+</p>
