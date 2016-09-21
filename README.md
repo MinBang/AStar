@@ -1,5 +1,7 @@
 # AStar
 
+Find the shortest path<br>
+
 == Manual ==<br>
 ===================================================<br>
 LButtonDown(Mouse) - set start point<br>
